@@ -33,4 +33,13 @@ h2{
       background-image: url('../assets/mobilebackground.jpg');
       background-size: 100%;
     }
+    h1.tenorsans{
+      font-size: 3em;
+    }
+    h1.date{
+      font-size: 3em;
+    }
+    h2{
+      font-size: 0.5em;
+    }
 }
