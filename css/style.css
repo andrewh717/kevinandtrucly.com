@@ -26,3 +26,11 @@ h2{
   color: #ffe066;
   text-shadow: 1.5px 1.5px #000000;
 }
+/* ----------- Mobile ----------- */
+
+@media (max-width: 800px){
+    body{
+      background-image: url('../assets/mobilebackground.jpg');
+      background-size: 100%;
+    }
+}
