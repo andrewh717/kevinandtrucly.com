@@ -6,6 +6,7 @@ body{
 h1.tenorsans{
   font-family: 'Tenor Sans', sans-serif;
   font-size: 6em;
+  margin-top: 0.5em;
   margin-bottom: 0em;
   color: #ffe066;
   text-shadow: 1.5px 1.5px #000000;
