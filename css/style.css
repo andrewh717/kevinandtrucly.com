@@ -18,6 +18,7 @@ h1.date{
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   margin: 0em;
+  margin-bottom: 1em;
   text-shadow: 1.5px 1.5px #000000;
 }
 h2{
@@ -34,10 +35,10 @@ h2{
       background-size: 100%;
     }
     h1.tenorsans{
-      font-size: 5em;
+      font-size: 4em;
     }
     h1.date{
-      font-size: 5em;
+      font-size: 4em;
     }
     h2{
       font-size: 2em;
