@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-image: url('../assets/background.png');
+  background-size: cover;
+}
+h1.tenorsans{
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 6em;
+  margin-bottom: 0em;
+  color: #ffe066;
+}
+h1.date{
+  font-family: 'Great Vibes', cursive;
+  font-size: 6em;
+  color: #ffffff;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin: 0em;
+}
+h2{
+  font-family: 'Great Vibes', cursive;
+  font-size: 3em;
+  color: #ffe066;
+}
