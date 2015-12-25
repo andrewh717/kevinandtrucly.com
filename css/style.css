@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background-image: url('../assets/background.png');
+  background-image: url('../assets/kevinandtrucly2.png');
   background-size: 100%;
 }
 h1.tenorsans{
@@ -8,6 +8,7 @@ h1.tenorsans{
   font-size: 6em;
   margin-bottom: 0em;
   color: #ffe066;
+  text-shadow: 1.5px 1.5px #000000;
 }
 h1.date{
   font-family: 'Great Vibes', cursive;
@@ -16,9 +17,11 @@ h1.date{
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   margin: 0em;
+  text-shadow: 1.5px 1.5px #000000;
 }
 h2{
   font-family: 'Great Vibes', cursive;
   font-size: 3em;
   color: #ffe066;
+  text-shadow: 1.5px 1.5px #000000;
 }
